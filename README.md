@@ -1,1 +1,2 @@
-# Autoregressive_Models_CS294
+# Implementation of PixelCNN and its different variants in PyTorch 
+
